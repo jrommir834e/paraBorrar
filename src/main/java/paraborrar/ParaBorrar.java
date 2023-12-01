@@ -11,6 +11,6 @@ package paraborrar;
 public class ParaBorrar {
 
     public static void main(String[] args) {
-        System.out.println("Esta lloviendo");
+        System.out.println("Esta saliendo el sol");
     }
 }
